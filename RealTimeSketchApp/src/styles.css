@@ -6,6 +6,8 @@
 
 body{
     background-color: rgb(247, 247, 247);
+    margin: 0px;
+    padding: 0px;
 }
 
 .canvas{
@@ -16,9 +18,4 @@ body{
 
 .navbar{
     margin-bottom: 4px;
-}
-
-.container{
-margin-left: 320px;
-  
 }
