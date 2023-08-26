@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(247, 247, 247);
+}
+
+.canvas{
+    border-radius: 4px;
+    border: 3px solid black;
+    
+}
+
+.navbar{
+    margin-bottom: 4px;
+}
+
+.container{
+margin-left: 320px;
+  
+}
